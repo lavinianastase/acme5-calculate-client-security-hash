@@ -671,10 +671,21 @@
           "lib/net452/RestSharp.dll": {}
         }
       },
-      "SHA1.Descriptors/1.0.3": {
+      "SHA1.UILibrary/1.0.4": {
         "type": "package",
         "dependencies": {
+          "Microsoft.Activities": "1.0.1",
+          "UiPath.System.Activities": "20.10.4",
+          "UiPath.Testing.Activities": "1.2.5",
           "UiPath.UIAutomation.Activities": "20.10.9"
+        },
+        "compile": {
+          "lib/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/SHA1.UILibrary.dll": {},
+          "lib/net45/SHA1.UILibrary_Expressions_39825499.dll": {},
+          "lib/net45/SHA1.UILibrary_Expressions_7378326.dll": {}
         },
         "contentFiles": {
           "contentFiles/any/any/_._": {
@@ -3045,10 +3056,10 @@
         "restsharp.nuspec"
       ]
     },
-    "SHA1.Descriptors/1.0.3": {
-      "sha512": "zUtQy+aXS4tCETdAeSR2NzJO5QZQVVeF9mMM4tpoHdON+MDeiDZhAQW8w0H4TN/o4yBoz076cUUWctMXeBtSqw==",
+    "SHA1.UILibrary/1.0.4": {
+      "sha512": "a11L9SWn5Ac/axjJjMhAX1B9xst9aQFvNu4/p/jaamsN5VjVhX4IexpaYdzob6DJ6Z5HBB2e+4cA4NHrQ87XBA==",
       "type": "package",
-      "path": "sha1.descriptors/1.0.3",
+      "path": "sha1.uilibrary/1.0.4",
       "files": [
         ".nupkg.metadata",
         "contentFiles/any/any/.objects/.metadata",
@@ -3124,13 +3135,17 @@
         "lib/net45/.settings/Release/settings-1a5b880a.json",
         "lib/net45/.settings/Release/settings-5190454b.json",
         "lib/net45/.settings/Release/settings-590bb27b.json",
+        "lib/net45/.settings/Release/settings-82ca306a.json",
         "lib/net45/.settings/Release/settings-9e9290da.json",
         "lib/net45/.settings/Release/settings-a1b2dac1.json",
         "lib/net45/.settings/Release/settings-afad0842.json",
         "lib/net45/.tmh/config.json",
+        "lib/net45/SHA1.UILibrary.dll",
+        "lib/net45/SHA1.UILibrary_Expressions_39825499.dll",
+        "lib/net45/SHA1.UILibrary_Expressions_7378326.dll",
         "lib/net45/project.json",
-        "sha1.descriptors.1.0.3.nupkg.sha512",
-        "sha1.descriptors.nuspec"
+        "sha1.uilibrary.1.0.4.nupkg.sha512",
+        "sha1.uilibrary.nuspec"
       ]
     },
     "SharpZipLib/1.2.0": {
@@ -4213,7 +4228,7 @@
     ".NETFramework,Version=v4.6.1": [
       "ACME.UILibrary >= 1.0.11 <= 1.0.11",
       "Microsoft.Activities >= 1.0.1 <= 1.0.1",
-      "SHA1.Descriptors >= 1.0.3 <= 1.0.3",
+      "SHA1.UILibrary >= 1.0.4 <= 1.0.4",
       "UiPath.Excel.Activities >= 2.9.5 <= 2.9.5",
       "UiPath.Mail.Activities >= 1.9.5 <= 1.9.5",
       "UiPath.System.Activities >= 20.10.4 <= 20.10.4",
@@ -4245,10 +4260,10 @@
             "target": "Package",
             "version": "[1.0.1, 1.0.1]"
           },
-          "SHA1.Descriptors": {
+          "SHA1.UILibrary": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[1.0.3, 1.0.3]"
+            "version": "[1.0.4, 1.0.4]"
           },
           "UiPath.Excel.Activities": {
             "include": "Runtime",

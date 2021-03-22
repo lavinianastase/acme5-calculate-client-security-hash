@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Process" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:aag="clr-namespace:ACME_UILibrary.ACME_System1.Generic;assembly=ACME.UILibrary" xmlns:aaw="clr-namespace:ACME_UILibrary.ACME_System1.WorkItems;assembly=ACME.UILibrary" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="Process" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:aag="clr-namespace:ACME_UILibrary.ACME_System1.Generic;assembly=ACME.UILibrary" xmlns:aaw="clr-namespace:ACME_UILibrary.ACME_System1.WorkItems;assembly=ACME.UILibrary" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:ss="clr-namespace:SHA1_UILibrary.SHA1_Online;assembly=SHA1.UILibrary" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
     <x:Property sap2010:Annotation.AnnotationText="Transaction item to be processed." Name="in_TransactionItem" Type="InArgument(ui:QueueItem)" />
     <x:Property sap2010:Annotation.AnnotationText="Dictionary structure to store configuration data of the process (settings, constants and assets)." Name="in_Config" Type="InArgument(scg:Dictionary(x:String, x:Object))" />
@@ -6,10 +6,10 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1243,1081</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1243,1031</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ProcessTransaction_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
-    <scg:List x:TypeArguments="x:String" Capacity="42">
+    <scg:List x:TypeArguments="x:String" Capacity="84">
       <x:String>System.Activities</x:String>
       <x:String>System.Activities.Statements</x:String>
       <x:String>System.Activities.Expressions</x:String>
@@ -43,6 +43,21 @@
       <x:String>System.ComponentModel</x:String>
       <x:String>System.Security</x:String>
       <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>SHA1_UILibrary.SHA1_Online</x:String>
+      <x:String>UiPath.Excel.Activities</x:String>
+      <x:String>UiPath.CSV.Activities</x:String>
+      <x:String>UiPath.Excel</x:String>
+      <x:String>UiPath.CSV</x:String>
+      <x:String>UiPath.Mail.Activities</x:String>
+      <x:String>UiPath.Mail.Exchange.Activities</x:String>
+      <x:String>UiPath.Mail.IMAP.Activities</x:String>
+      <x:String>UiPath.Mail.Outlook.Activities</x:String>
+      <x:String>UiPath.Mail.POP3.Activities</x:String>
+      <x:String>UiPath.Mail.SMTP.Activities</x:String>
+      <x:String>UiPath.OCR.Activities</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>Microsoft.Activities.Expressions</x:String>
     </scg:List>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
@@ -83,10 +98,14 @@
       <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
       <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
       <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>SHA1.UILibrary</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities.Design</AssemblyReference>
+      <AssemblyReference>Microsoft.Activities</AssemblyReference>
       <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Invoke major steps of the business process, which are usually implemented by multiple subworkflows.&#xA;&#xA;If a BusinessRuleException is thrown, the transaction is skipped. &#xA;If another kind of exception occurs, the current transaction can be retried. " DisplayName="Process" sap:VirtualizedContainerService.HintSize="383,916" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Invoke major steps of the business process, which are usually implemented by multiple subworkflows.&#xA;&#xA;If a BusinessRuleException is thrown, the transaction is skipped. &#xA;If another kind of exception occurs, the current transaction can be retried. " DisplayName="Process" sap:VirtualizedContainerService.HintSize="376,826" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="ClientID" />
       <Variable x:TypeArguments="x:String" Name="ClientName" />
@@ -100,8 +119,8 @@
         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log Message - Start Process.xaml" sap:VirtualizedContainerService.HintSize="341,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Start Process.xaml&quot;]" />
-    <Assign DisplayName="Assign - get WIID" sap:VirtualizedContainerService.HintSize="341,60" sap2010:WorkflowViewState.IdRef="Assign_1">
+    <ui:LogMessage DisplayName="Log Message - Start Process.xaml" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Start Process.xaml&quot;]" />
+    <Assign DisplayName="Assign - get WIID" sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_1">
       <Assign.To>
         <OutArgument x:TypeArguments="x:String">[WIID]</OutArgument>
       </Assign.To>
@@ -109,17 +128,11 @@
         <InArgument x:TypeArguments="x:String">[in_TransactionItem.SpecificContent("WIID").ToString]</InArgument>
       </Assign.Value>
     </Assign>
-    <aag:NavigateTo DisplayName="NavigateTo ACME - specific WIID page" sap:VirtualizedContainerService.HintSize="341,22" sap2010:WorkflowViewState.IdRef="NavigateTo_1" URL="[in_Config(&quot;AcmeWorkItemsURL&quot;).ToString + &quot;/&quot; + WIID]" />
-    <aaw:ExtractClientInformation ClientCountry="[ClientCountry]" ClientID="[ClientID]" ClientName="[ClientName]" sap:VirtualizedContainerService.HintSize="341,22" sap2010:WorkflowViewState.IdRef="ExtractClientInformation_1" />
-    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke SHA1Online workflow" sap:VirtualizedContainerService.HintSize="341,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_3" UnSafe="False" WorkflowFileName="SHA1Online\SHA1Online_ProcessHash.xaml">
-      <ui:InvokeWorkflowFile.Arguments>
-        <OutArgument x:TypeArguments="x:String" x:Key="out_HashResult">[HashResult]</OutArgument>
-        <InArgument x:TypeArguments="x:String" x:Key="in_HashFormula">[ClientID+"-"+ClientName+"-"+ClientCountry]</InArgument>
-        <InArgument x:TypeArguments="x:String" x:Key="in_SHAUrl">[in_Config("SHA1_Online_URL").ToString]</InArgument>
-      </ui:InvokeWorkflowFile.Arguments>
-    </ui:InvokeWorkflowFile>
-    <aaw:UpdateWorkItem Comment="[HashResult]" DisplayName="UpdateWorkItem - Completed" sap:VirtualizedContainerService.HintSize="341,22" sap2010:WorkflowViewState.IdRef="UpdateWorkItem_1" Status="Completed" />
-    <aag:NavigateTo DisplayName="NavigateTo - back to ACME " sap:VirtualizedContainerService.HintSize="341,22" sap2010:WorkflowViewState.IdRef="NavigateTo_2" URL="[in_Config(&quot;AcmeURL&quot;).ToString]" />
-    <ui:LogMessage DisplayName="Log Message - End Process.xaml" sap:VirtualizedContainerService.HintSize="341,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;End  Process.xaml&quot;]" />
+    <aag:NavigateTo DisplayName="NavigateTo ACME - specific WIID page" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="NavigateTo_1" URL="[in_Config(&quot;AcmeWorkItemsURL&quot;).ToString + &quot;/&quot; + WIID]" />
+    <aaw:ExtractClientInformation ClientCountry="[ClientCountry]" ClientID="[ClientID]" ClientName="[ClientName]" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="ExtractClientInformation_1" />
+    <ss:ProcessHash DisplayName="ProcessHash in SHA1 Online" HashFormula="[ClientID+&quot;-&quot;+ClientName+&quot;-&quot;+ClientCountry]" HashResult="[HashResult]" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="ProcessHash_1" SHAUrl="[in_Config(&quot;SHA1_Online_URL&quot;).ToString]" />
+    <aaw:UpdateWorkItem Comment="[HashResult]" DisplayName="UpdateWorkItem - Completed" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="UpdateWorkItem_1" Status="Completed" />
+    <aag:NavigateTo DisplayName="NavigateTo - back to ACME " sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="NavigateTo_2" URL="[in_Config(&quot;AcmeURL&quot;).ToString]" />
+    <ui:LogMessage DisplayName="Log Message - End Process.xaml" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;End  Process.xaml&quot;]" />
   </Sequence>
 </Activity>
