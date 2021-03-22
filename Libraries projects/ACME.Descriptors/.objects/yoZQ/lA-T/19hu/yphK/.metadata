@@ -1,0 +1,15 @@
+﻿{
+  "Id": "yphKNg8XukeK70Vli-KSmw",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/yphKNg8XukeK70Vli-KSmw",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/19hupH6KS0KN7RxXwGN8sw",
+  "Name": "Login button - Click",
+  "Description": "Selector for login button ",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-10T12:53:03.9978699Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T12:53:03.9978699Z"
+}

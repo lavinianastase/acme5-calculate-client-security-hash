@@ -1,0 +1,11 @@
+﻿{
+  "Id": "EDRwVGUoj0SQrntTTHLCjg",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/EDRwVGUoj0SQrntTTHLCjg",
+  "Name": "ACME - IE",
+  "Type": "App",
+  "Created": "2021-02-10T12:53:04.3969255Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T12:53:04.3969255Z"
+}

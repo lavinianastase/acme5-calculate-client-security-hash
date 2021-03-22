@@ -1,0 +1,17 @@
+﻿{
+  "Id": "ATYHS8TJ4EuQHr25HTvnsw",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/ATYHS8TJ4EuQHr25HTvnsw",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/EH4D9xOMMEWS6OylHN7G_g",
+  "Name": "Dashboard",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-02-10T14:16:10.6609891Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T17:25:00.8983582Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

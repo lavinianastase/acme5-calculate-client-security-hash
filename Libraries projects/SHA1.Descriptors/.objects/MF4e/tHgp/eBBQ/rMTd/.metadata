@@ -1,0 +1,17 @@
+﻿{
+  "Id": "rMTdE0wl1UCaxyeZZBa9HQ",
+  "Reference": "CmxxiS9YUUKsGoHNEbX3UA/rMTdE0wl1UCaxyeZZBa9HQ",
+  "ParentRef": "CmxxiS9YUUKsGoHNEbX3UA/eBBQD8HiQE-Rf7hKO8itjw",
+  "Name": "Input Text - Textbox",
+  "Description": "Selector for textbox",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-12T13:48:01.8225507Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-12T13:48:56.4754067Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

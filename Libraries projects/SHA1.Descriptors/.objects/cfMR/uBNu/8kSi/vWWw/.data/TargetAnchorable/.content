@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://www.sha1-online.com/" ContentHash="lBL_Za6j7ketHBW9Qg_YIg" DesignTimeRectangle="1102, 260, 47, 21" ElementType="Button" FriendlyName="'hash'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' aaname='hash' check:text='hash' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA1 online' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Text="hash" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='INPUT' type='submit' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0A7GHeF2E4kWpwKjqRAhBfw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a52cd52e38345c3f4b869928458a0987.png" xmlns="">0dZ5PrA1GCk6hRiyjUQ-EkQ</imageRef>
+</TargetAnchorable>

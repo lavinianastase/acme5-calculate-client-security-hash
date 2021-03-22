@@ -1,0 +1,15 @@
+﻿{
+  "Id": "rjQoOIh8UUSv8q_ooRccEA",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/rjQoOIh8UUSv8q_ooRccEA",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/7ImoEMC1wU68DN4gG6Pzeg",
+  "Name": "Extract Table Data - Work Items",
+  "Description": "Selector for the WI table (used for data extraction)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-10T17:36:39.6963473Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T17:36:39.6963473Z"
+}

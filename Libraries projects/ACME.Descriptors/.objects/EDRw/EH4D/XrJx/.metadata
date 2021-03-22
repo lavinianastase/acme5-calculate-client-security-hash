@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XrJxq7UluUK6CHur9ZBblg",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/XrJxq7UluUK6CHur9ZBblg",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/EH4D9xOMMEWS6OylHN7G_g",
+  "Name": "Generic screen",
+  "Description": "Generic top selector to match any screen",
+  "Type": "Screen",
+  "Created": "2021-02-10T12:59:13.7801735Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T12:59:17.8326016Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

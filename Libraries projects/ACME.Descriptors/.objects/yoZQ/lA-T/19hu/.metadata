@@ -1,0 +1,18 @@
+﻿{
+  "Id": "19hupH6KS0KN7RxXwGN8sw",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/19hupH6KS0KN7RxXwGN8sw",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/lA-Tf-uKGECuy2Q2TCCp8w",
+  "Name": "Login",
+  "Description": "The login browser scope",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-02-10T12:53:03.8820311Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T17:38:22.9239197Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

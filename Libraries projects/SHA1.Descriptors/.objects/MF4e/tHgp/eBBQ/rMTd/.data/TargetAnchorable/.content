@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://www.sha1-online.com/" ContentHash="9uFQaurMeEGNDwLP8Ha0Xw" DesignTimeRectangle="788, 180, 291, 22" ElementType="InputBox" FriendlyName="'INPUT  textToHashId'" FullSelectorArgument="&lt;webctrl tag='INPUT' name='textToHash' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' name='textToHash' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html title='SHA1 online' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0UBCVGoCdN0CauGrh10LXUA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4486e7845e0010ea7bcf2d660cd6c46d.png" xmlns="">0RHg-gjd_oUSyf7LeiwdLmA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items/update/64451168" ContentHash="5GXKy7uiZU6P4NtpgfgQrQ" DesignTimeRectangle="55, 431, 218, 26" ElementType="Text" FriendlyName="'Open'" FullSelectorArgument="[String.Format(&quot;&lt;webctrl aaname='{0}' tag='A' /&gt;&quot;, status)]" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl aaname='{0}' tag='A' type='' check:text='{0}' /&gt;&quot;, status)]" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Text="Open" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='A' type='' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0fU18gVsdBEu5c1afoLQ79g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4739ee64c6ca992ebbd7b0191cea46c4.png" xmlns="">0B9ymuQ2coEW5u5lngeZGFA</imageRef>
+</TargetAnchorable>

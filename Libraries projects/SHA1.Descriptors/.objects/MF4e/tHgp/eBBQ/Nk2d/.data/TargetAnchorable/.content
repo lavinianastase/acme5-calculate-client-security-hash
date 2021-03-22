@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://www.sha1-online.com/" ContentHash="t07duG-v0kCI1GzxTG8kEQ" DesignTimeRectangle="804, 261, 481, 21" ElementType="Text" FriendlyName="'0d23e72be0377ab0e899791…'" FullSelectorArgument="&lt;webctrl tag='SPAN' id='result-sha1' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SPAN' id='result-sha1' type='' aaname='0d23e72be0377ab0e899791a9cbf2f0613813c18' check:text='0d23e72be0377ab0e899791a9cbf2f0613813c18' /&gt;" ScopeSelectorArgument="&lt;html title='SHA1 online' /&gt;" SearchSteps="FuzzySelector, Image" Text="0d23e72be0377ab0e899791a9cbf2f0613813c18" TextMethod="AttributeText" TextSelector="&lt;webctrl type='' tag='SPAN' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0J9f3scqMM0WYkJrjGNvjhA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3c6a99d5c9d08fe7596814ac7db1f8ce.png" xmlns="">05hLP6O4hIE-1eQQ4hIrcjg</imageRef>
+</TargetAnchorable>

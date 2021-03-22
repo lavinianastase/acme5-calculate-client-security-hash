@@ -1,0 +1,15 @@
+﻿{
+  "Id": "Z2erVHcpGUK9VgQGHvOhGQ",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/Z2erVHcpGUK9VgQGHvOhGQ",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/19hupH6KS0KN7RxXwGN8sw",
+  "Name": "Password - Type Into",
+  "Description": "Selector for password textbox",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-10T12:53:04.1069094Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T12:53:04.1069094Z"
+}

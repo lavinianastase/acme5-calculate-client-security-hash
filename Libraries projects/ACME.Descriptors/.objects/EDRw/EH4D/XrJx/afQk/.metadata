@@ -1,0 +1,15 @@
+﻿{
+  "Id": "afQk80L1PEiW4mym4b3LxA",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/afQk80L1PEiW4mym4b3LxA",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/XrJxq7UluUK6CHur9ZBblg",
+  "Name": "Log Out button",
+  "Description": "Selector for logout button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-10T17:31:29.8139205Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T17:31:29.8139205Z"
+}

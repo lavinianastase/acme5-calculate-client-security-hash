@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/home" ContentHash="rg4o1JVSVE-1T6hYX2EE-g" DesignTimeRectangle="390, 90, 1140, 50" FriendlyName="'Dashboard'" FullSelectorArgument="&lt;webctrl tag='H1' aaname='*Dashboard*' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H1' aaname='*Dashboard*' type='' check:text='Dashboard' /&gt;" ScopeSelectorArgument="&lt;html title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, Image" Text="Dashboard" TextMethod="AttributeText" TextSelector="&lt;webctrl type='' tag='H1' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">029Oc0qKMkUuV20dShkIb9A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="21bdf7623ce8953d950a2e5e9353fa9f.png" xmlns="">0aUteoUkhlUyHwT8TErTeCQ</imageRef>
+</TargetAnchorable>

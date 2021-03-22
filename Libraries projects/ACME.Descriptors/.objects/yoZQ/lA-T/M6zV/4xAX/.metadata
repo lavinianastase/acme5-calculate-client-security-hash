@@ -1,0 +1,15 @@
+﻿{
+  "Id": "4xAXVjDod0SapybB6_Ak2g",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/4xAXVjDod0SapybB6_Ak2g",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/M6zVodaHP02wJkEk7HNqDg",
+  "Name": "Work Items - Extract Table Data",
+  "Description": "Selector for table and next button, for table extraction",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-11T10:12:40.1758506Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-11T10:12:40.1758506Z"
+}

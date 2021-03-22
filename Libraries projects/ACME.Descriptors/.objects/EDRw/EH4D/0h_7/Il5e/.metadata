@@ -1,0 +1,17 @@
+﻿{
+  "Id": "Il5eu9JJYkWfihcpzrIRJw",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/Il5eu9JJYkWfihcpzrIRJw",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/0h_76mYVuE-wadzGU9nM-A",
+  "Name": "New Status Dropdown",
+  "Description": "Dynamic Selector for dropdown selector",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-10T18:19:10.3686928Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T18:22:18.1198977Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

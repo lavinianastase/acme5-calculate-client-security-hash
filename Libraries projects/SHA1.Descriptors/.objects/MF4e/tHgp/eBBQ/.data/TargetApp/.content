@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="IE" ContentHash="eaouff9mIE6eyt04syGQpg" Selector="&lt;html title='SHA1 online'/&gt;" Url="http://www.sha1-online.com/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0GvaZdS-st0CZGr_bQ-c-Jw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c64046ab16ad9e9acf34b990df61c3fb.png" xmlns="">0i4KoepHxBEOcClPUHt1nUw</imageRef>
+</TargetApp>

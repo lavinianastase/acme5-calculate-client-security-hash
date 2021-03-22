@@ -1,0 +1,14 @@
+﻿{
+  "Id": "8kSiYpU8DEC1DKnbk7xlDg",
+  "Reference": "CmxxiS9YUUKsGoHNEbX3UA/8kSiYpU8DEC1DKnbk7xlDg",
+  "ParentRef": "CmxxiS9YUUKsGoHNEbX3UA/uBNu3ZCRZkCDlBuZ_HYXog",
+  "Name": "SHA1 Main Screen",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-02-11T15:55:05.5318309Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-11T15:55:05.5318309Z"
+}

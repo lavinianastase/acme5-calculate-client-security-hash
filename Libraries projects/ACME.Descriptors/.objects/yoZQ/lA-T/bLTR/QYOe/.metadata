@@ -1,0 +1,16 @@
+﻿{
+  "Id": "QYOeY9-jAkGxeeeLv915Ag",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/QYOeY9-jAkGxeeeLv915Ag",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/bLTRYKoD0kKaUTXkEuJymg",
+  "Name": "Chrome Dialog box - Confirm details update",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-11T15:42:42.4034064Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-11T15:43:14.4885168Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "xWi_J3K5zUCUJORG353erA",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/xWi_J3K5zUCUJORG353erA",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/Vr3uBGNy5EmpNtbzofOYHA",
+  "Name": "Email - Type Into",
+  "Description": "Email textbox selector",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-10T12:53:04.491767Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T12:53:04.491767Z"
+}

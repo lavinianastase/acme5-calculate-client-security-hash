@@ -1,0 +1,15 @@
+﻿{
+  "Id": "bOoADdYs5EukXMQgeb6ALA",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/bOoADdYs5EukXMQgeb6ALA",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/IKBClhkkXki0ww1dtOrU7g",
+  "Name": "Work Items Element",
+  "Description": "Work Items tab Element",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-10T17:26:50.8521504Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T17:26:50.8521504Z"
+}

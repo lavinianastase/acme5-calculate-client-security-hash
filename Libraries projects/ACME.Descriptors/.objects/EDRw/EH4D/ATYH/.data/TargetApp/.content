@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="IE" ContentHash="fKvoqaEib0K7HFHtsWK1xA" Selector="&lt;html title='ACME System 1 - Dashboard'/&gt;" Url="https://acme-test.uipath.com/home" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0vmxjhXVh30KCtQDiMwjSrg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="66555ef998db70acbec4ccc0093eb7e5.png" xmlns="">0h8H8RaEEsESoVPBTUyVQfg</imageRef>
+</TargetApp>
