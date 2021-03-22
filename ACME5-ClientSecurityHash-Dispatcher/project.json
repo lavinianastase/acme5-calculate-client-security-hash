@@ -3,7 +3,7 @@
   "description": "ACME 5 Dispatcher",
   "main": "Main.xaml",
   "dependencies": {
-    "ACME.Descriptors": "[1.0.12]",
+    "ACME.UILibrary": "[1.0.11]",
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.System.Activities": "[20.10.4]",
@@ -63,6 +63,14 @@
     "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "9d574c5c-c93f-42ab-b97f-be2e61708fac",
+      "input": [],
+      "output": []
+    }
+  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {}

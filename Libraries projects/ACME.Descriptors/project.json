@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.1.0",
-  "projectVersion": "1.0.9",
+  "projectVersion": "1.0.11",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -31,29 +31,32 @@
     "outputType": "Library",
     "libraryOptions": {
       "includeOriginalXaml": false,
-      "privateWorkflows": []
+      "privateWorkflows": [
+        "Tests/Utils/InitAllSettings.xaml",
+        "Tests/Utils/Config.xlsx"
+      ]
     },
     "processOptions": {
       "ignoredFiles": []
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "3d162cb2-f0c0-4e4b-affa-5e5fbdf4b5c0",
         "fileName": "Tests\\Verify_Login_Exception.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "88061f8f-0972-4d6f-bb27-172cce7506bd",
         "fileName": "Tests\\Verify_Login_Successful.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "a68da80d-980f-43ce-9e25-16222b356aca",
         "fileName": "Tests\\Verify_Logout.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "44931dda-6687-4af1-970d-a91b989134d9",
         "fileName": "Tests\\Verify_NavigateTo.xaml"
       }

@@ -5,7 +5,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1177,1996</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1232,1995</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>LogoutAcme_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -77,7 +77,7 @@
       <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Logged out successfully&#xA;Be logged in into Acme&#xA;Successfully logged out&#xA;&#xA;In args:&#xA;CloseBrowser  - set to true in order to close the tab after logout&#xA;&#xA;Out args:&#xA;N/A&#xA;&#xA;IO args:&#xA;N/A&#xA;" DisplayName="Logout" sap:VirtualizedContainerService.HintSize="924,1831" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Logged out successfully&#xA;Be logged in into Acme&#xA;Successfully logged out&#xA;&#xA;In args:&#xA;CloseBrowser  - set to true in order to close the tab after logout&#xA;&#xA;Out args:&#xA;N/A&#xA;&#xA;IO args:&#xA;N/A&#xA;" DisplayName="Logout" sap:VirtualizedContainerService.HintSize="924,1830" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -91,13 +91,13 @@
         </InArgument>
       </ui:LogMessage.Level>
     </ui:LogMessage>
-    <uix:NApplicationCard AttachMode="ByInstance" ContinueOnError="True" DisplayName="Use Application/Browser - ACME" sap:VirtualizedContainerService.HintSize="882,1270" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="Simulate" OpenMode="Never" Timeout="5" Version="V1">
+    <uix:NApplicationCard AttachMode="ByInstance" ContinueOnError="True" DisplayName="Use Application/Browser - ACME" sap:VirtualizedContainerService.HintSize="882,1269" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="Simulate" OpenMode="Never" Timeout="5" Version="V1">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="848,1054" sap2010:WorkflowViewState.IdRef="Sequence_4">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="848,1053" sap2010:WorkflowViewState.IdRef="Sequence_4">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -111,7 +111,7 @@
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <uix:NClick ClickType="Single" DisplayName="Click 'Log Out'" sap:VirtualizedContainerService.HintSize="334,166" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left">
+                  <uix:NClick ClickType="Single" DisplayName="Click 'Log Out'" sap:VirtualizedContainerService.HintSize="334,166" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" Timeout="5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items" ContentHash="vxPgxrosLEu09kcPwF1r_g" DesignTimeRectangle="1473, 79, 80, 50" ElementType="Text" FriendlyName="'Log Out'" FullSelectorArgument="&lt;webctrl aaname='Log Out' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Log Out' parentid='bs-example-navbar-collapse-1' tag='A' type='' check:text='Log Out' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFQAAAA2CAYAAABZV76QAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI1SURBVHhe7dZbTttAFMZxP2YdWUbYRbIJvAe8hLADbyKPI7WFAn3kFXqvBCUUXnsTDz2cM4yd8fjSUn2tYvRF+mnijG2cfyYO2bMzJ+Z56rzfi8rryBsnBzoe2Fh523aYerfx8r2qxsoHJ0c61nT7WMdjG9XJRx2VjQ2fnLxStu/plZP1DyeXX51cfNPR6HMbPwdr3V7reGXPvzu5TnxRN8FtcKPntPPaMbc/ndz9cpKtVishnGw6nQrhMCgYg4IxKBiDgjEoGIOCMSgYg4IxKBiDgjEoGIOCMSgYg4IxKBiDgjEoGIOCMSgYLOhsdynl3rxz7p9ZFFKWZWQp+U7Hfr1mku+XUiy65v7OaIPO9zoC7uSy1LDL3Vlj336jDvpw8fVqSveNV9t+LrkF6zuf37eQedecj7oJ7cPH56nnm9fz5x/CsP8UNFx8PZ9sh5VVr5Qqbs/5WpESNl8F6g9q22NdoV0rKnpj7WPTDyD2MDe0ouLzPcmgfk6/xrPG63MpwhuLV1SlfxUyKDjo8JyJz/ckg2K/8gryo2TbYw3aCpRs+zcZvbHf/CgZHyoK54XzxKvdX1cUv3nctge1CKk0Yuv1oIpowr9NQ/dJLz7GSwJ7zb9bLDa3Gpuvr3vgw3sMWFC0+D44JlsR1K+S+EcruQ+OyZas0OR2MNKYZmu/8mPFoGAMCsagYAwKxqBgDArGoGAMCsagYAwKxqBgDArGoGAMCsagYAwKlk0mEyGcTPgAPkTuATG2iUGl9OSdAAAAAElFTkSuQmCC" InformativeScreenshot="d323ae213fa1fe9c0512b9ee253fc74a.png" Reference="WmLKxEiM50iWOelNGu-mNw/3vRDFQDbz0C8JteZWiJOdw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Text="Log Out" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='A' type='' /&gt;" />
                     </uix:NClick.Target>
@@ -140,7 +140,7 @@
             </uix:NCheckState>
             <If Condition="[CloseBrowser]" DisplayName="If in_CloseBrowser" sap:VirtualizedContainerService.HintSize="806,272" sap2010:WorkflowViewState.IdRef="If_1">
               <If.Then>
-                <uix:NNavigateBrowser Action="CloseTab" sap2010:Annotation.AnnotationText="Added a delay before to give time for the logout to be processed." DelayBefore="1" DisplayName="Navigate Browser - Close Tab" sap:VirtualizedContainerService.HintSize="334,123" sap2010:WorkflowViewState.IdRef="NNavigateBrowser_1">
+                <uix:NNavigateBrowser Action="CloseTab" sap2010:Annotation.AnnotationText="Added a delay before to give time for the logout to be processed." DisplayName="Navigate Browser - Close Tab" sap:VirtualizedContainerService.HintSize="334,123" sap2010:WorkflowViewState.IdRef="NNavigateBrowser_1">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>

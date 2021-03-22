@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1177,2457</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1232,2457</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>System1_UpdateWorkItem_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -78,10 +78,7 @@
       <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Updates the Work Item to the Status and Comment input arguments. Status can be &quot;Open&quot;, &quot;Completed&quot; or &quot;Rejected&quot;&#xA;&#xA;Precondition: System 1 WI Details Page open&#xA;Post action: None&#xD;&#xA;&#xD;&#xA;In args:&#xD;&#xA;Comment : String&#xD;&#xA;Status : String" DisplayName="UpdateWorkItem" sap:VirtualizedContainerService.HintSize="476,2292" sap2010:WorkflowViewState.IdRef="Sequence_1">
-    <Sequence.Variables>
-      <Variable x:TypeArguments="x:String" sap2010:Annotation.AnnotationText="variable used for the descriptor of the click element" Default="[in_Status]" Name="status" />
-    </Sequence.Variables>
+  <Sequence sap2010:Annotation.AnnotationText="Updates the Work Item to the Status and Comment input arguments. Status can be &quot;Open&quot;, &quot;Completed&quot; or &quot;Rejected&quot;&#xA;&#xA;Precondition: System 1 WI Details Page open&#xA;Post action: None&#xA;&#xA;In args:&#xA;Comment : String&#xA;Status : String" DisplayName="UpdateWorkItem" sap:VirtualizedContainerService.HintSize="476,2292" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
