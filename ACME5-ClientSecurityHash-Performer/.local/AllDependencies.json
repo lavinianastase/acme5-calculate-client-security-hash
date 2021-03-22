@@ -4446,9 +4446,9 @@
     "restore": {
       "projectUniqueName": "ACME5-ClientSecurityHash-Performer",
       "projectName": "ACME5-ClientSecurityHash-Performer",
-      "projectPath": "C:\\Users\\lavinia.nastase\\Documents\\2021\\UAT Methodology\\ACME5-ClientSecurityHash-Performer\\.local",
+      "projectPath": "C:\\Repos\\acme5-calculate-client-security-hash\\ACME5-ClientSecurityHash-Performer\\.local",
       "packagesPath": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lavinia.nastase\\Documents\\2021\\UAT Methodology\\ACME5-ClientSecurityHash-Performer\\.local"
+      "outputPath": "C:\\Repos\\acme5-calculate-client-security-hash\\ACME5-ClientSecurityHash-Performer\\.local"
     },
     "frameworks": {
       "net461": {

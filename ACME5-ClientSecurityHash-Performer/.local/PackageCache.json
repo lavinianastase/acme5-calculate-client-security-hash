@@ -244,6 +244,25 @@
     },
     {
       "Package": {
+        "Id": "UiPath.Testing.Activities",
+        "Version": "1.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\automapper/9.0.0\\lib/net461/AutoMapper.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\restsharp/106.6.10\\lib/net452/RestSharp.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Orchestrator.Client.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Web.Client.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities\\1.2.5"
+    },
+    {
+      "Package": {
         "Id": "UiPath.UIAutomation.Activities",
         "Version": "20.10.9"
       },
@@ -301,25 +320,6 @@
         "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Testing.Activities",
-        "Version": "1.2.5"
-      },
-      "Assemblies": [
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\automapper/9.0.0\\lib/net461/AutoMapper.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\restsharp/106.6.10\\lib/net452/RestSharp.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Orchestrator.Client.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.Activities.Design.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.Activities.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Web.Client.dll"
-      ],
-      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities\\1.2.5"
     }
   ],
   "Conflicts": [],

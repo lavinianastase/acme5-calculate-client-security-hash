@@ -4317,9 +4317,9 @@
     "restore": {
       "projectUniqueName": "ACME5-ClientSecurityHash-Dispatcher",
       "projectName": "ACME5-ClientSecurityHash-Dispatcher",
-      "projectPath": "C:\\Users\\lavinia.nastase\\Documents\\2021\\UAT Methodology\\ACME5-ClientSecurityHash-Dispatcher\\.local",
+      "projectPath": "C:\\Repos\\acme5-calculate-client-security-hash\\ACME5-ClientSecurityHash-Dispatcher\\.local",
       "packagesPath": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lavinia.nastase\\Documents\\2021\\UAT Methodology\\ACME5-ClientSecurityHash-Dispatcher\\.local"
+      "outputPath": "C:\\Repos\\acme5-calculate-client-security-hash\\ACME5-ClientSecurityHash-Dispatcher\\.local"
     },
     "frameworks": {
       "net461": {

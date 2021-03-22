@@ -2,29 +2,8 @@
   "Packages": [
     {
       "Package": {
-        "Id": "UiPath.Excel.Activities",
-        "Version": "2.9.5"
-      },
-      "Assemblies": [
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.9.5\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.9.5\\lib/net461/UiPath.Excel.Activities.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.9.5\\lib/net461/UiPath.Excel.dll"
-      ],
-      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.9.5"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.UIAutomation.Activities",
-        "Version": "20.10.9"
+        "Id": "ACME.Descriptors",
+        "Version": "1.0.12"
       },
       "Assemblies": [
         "C:\\Users\\lavinia.nastase\\.nuget\\packages\\aforge/2.2.5\\lib/AForge.dll",
@@ -79,7 +58,28 @@
         "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.Tesseract.dll",
         "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\acme.descriptors\\1.0.12"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.9.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.9.5\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.9.5\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.9.5\\lib/net461/UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.9.5"
     },
     {
       "Package": {
@@ -109,25 +109,6 @@
         "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.mail.activities/1.9.5\\lib/net461/UiPath.Mail.dll"
       ],
       "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.mail.activities\\1.9.5"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Testing.Activities",
-        "Version": "1.2.5"
-      },
-      "Assemblies": [
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\automapper/9.0.0\\lib/net461/AutoMapper.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\restsharp/106.6.10\\lib/net452/RestSharp.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Orchestrator.Client.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.Activities.Design.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.Activities.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.dll",
-        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Web.Client.dll"
-      ],
-      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities\\1.2.5"
     },
     {
       "Package": {
@@ -188,8 +169,27 @@
     },
     {
       "Package": {
-        "Id": "ACME.Descriptors",
-        "Version": "1.0.12"
+        "Id": "UiPath.Testing.Activities",
+        "Version": "1.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\automapper/9.0.0\\lib/net461/AutoMapper.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\restsharp/106.6.10\\lib/net452/RestSharp.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Orchestrator.Client.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Testing.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities/1.2.5\\lib/net461/UiPath.Web.Client.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.testing.activities\\1.2.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "20.10.9"
       },
       "Assemblies": [
         "C:\\Users\\lavinia.nastase\\.nuget\\packages\\aforge/2.2.5\\lib/AForge.dll",
@@ -244,7 +244,7 @@
         "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.Tesseract.dll",
         "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\acme.descriptors\\1.0.12"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9"
     }
   ],
   "Conflicts": [],

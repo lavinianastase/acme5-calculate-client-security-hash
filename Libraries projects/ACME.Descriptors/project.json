@@ -1,8 +1,11 @@
 {
-  "name": "ACME.Descriptors",
+  "name": "ACME.UILibrary",
   "description": "ACME UI Library",
   "main": "NewActivity.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "2.9.5",
+    "UiPath.System.Activities": "20.10.4",
+    "UiPath.Testing.Activities": "1.2.5",
     "UiPath.UIAutomation.Activities": "[20.10.9]"
   },
   "webServices": [],
@@ -33,7 +36,28 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3d162cb2-f0c0-4e4b-affa-5e5fbdf4b5c0",
+        "fileName": "Tests\\Verify_Login_Exception.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "88061f8f-0972-4d6f-bb27-172cce7506bd",
+        "fileName": "Tests\\Verify_Login_Successful.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a68da80d-980f-43ce-9e25-16222b356aca",
+        "fileName": "Tests\\Verify_Logout.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "44931dda-6687-4af1-970d-a91b989134d9",
+        "fileName": "Tests\\Verify_NavigateTo.xaml"
+      }
+    ],
     "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
