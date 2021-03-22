@@ -33,7 +33,8 @@
       "includeOriginalXaml": false,
       "privateWorkflows": [
         "Tests/Utils/InitAllSettings.xaml",
-        "Tests/Utils/Config.xlsx"
+        "Tests/Utils/Config.xlsx",
+        "ACME-System1/Login/Login_Execution.xaml"
       ]
     },
     "processOptions": {
