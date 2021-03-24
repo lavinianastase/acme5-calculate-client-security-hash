@@ -8,7 +8,8 @@
     "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.System.Activities": "[20.10.4]",
     "UiPath.Testing.Activities": "[1.2.5]",
-    "UiPath.UIAutomation.Activities": "[20.10.9]"
+    "UiPath.UIAutomation.Activities": "[20.10.9]",
+    "UiPath.WebAPI.Activities": "[1.6.0]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -58,6 +59,11 @@
         "editingStatus": "Publishable",
         "testCaseId": "967d0e28-7f15-442a-bf21-774b850fc38b",
         "fileName": "UnitTests\\System1\\Verify_NavigateTo.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ea78b0bb-8b57-464a-8178-8394bcab16de",
+        "fileName": "Tests\\Verify_Main.xaml"
       }
     ],
     "modernBehavior": true

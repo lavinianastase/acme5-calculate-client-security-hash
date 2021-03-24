@@ -3152,9 +3152,9 @@
     "restore": {
       "projectUniqueName": "ACME.UILibrary",
       "projectName": "ACME.UILibrary",
-      "projectPath": "C:\\Repos\\acme5-calculate-client-security-hash\\Libraries projects\\ACME.Descriptors\\.local",
+      "projectPath": "C:\\Repos\\acme5-calculate-client-security-hash\\Libraries projects\\ACME.UILibrary\\.local",
       "packagesPath": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\acme5-calculate-client-security-hash\\Libraries projects\\ACME.Descriptors\\.local"
+      "outputPath": "C:\\Repos\\acme5-calculate-client-security-hash\\Libraries projects\\ACME.UILibrary\\.local"
     },
     "frameworks": {
       "net461": {

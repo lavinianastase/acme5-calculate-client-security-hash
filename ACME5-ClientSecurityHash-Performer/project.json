@@ -45,6 +45,11 @@
         "editingStatus": "Publishable",
         "testCaseId": "f9ea110a-27bd-4422-8403-478d60719c29",
         "fileName": "UnitTests\\SHA1Online\\Verify_ProcessHash.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "eb8af202-3da9-4ed6-81b8-d6e5c6e162cf",
+        "fileName": "Tests\\Verify_Main.xaml"
       }
     ],
     "modernBehavior": true

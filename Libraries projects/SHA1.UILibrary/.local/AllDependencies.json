@@ -2899,11 +2899,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "SHA1.Descriptors",
-      "projectName": "SHA1.Descriptors",
-      "projectPath": "C:\\Repos\\acme5-calculate-client-security-hash\\Libraries projects\\SHA1.Descriptors\\.local",
+      "projectUniqueName": "SHA1.UILibrary",
+      "projectName": "SHA1.UILibrary",
+      "projectPath": "C:\\Repos\\acme5-calculate-client-security-hash\\Libraries projects\\SHA1.UILibrary\\.local",
       "packagesPath": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\acme5-calculate-client-security-hash\\Libraries projects\\SHA1.Descriptors\\.local"
+      "outputPath": "C:\\Repos\\acme5-calculate-client-security-hash\\Libraries projects\\SHA1.UILibrary\\.local"
     },
     "frameworks": {
       "net461": {
