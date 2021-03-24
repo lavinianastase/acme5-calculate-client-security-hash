@@ -1,0 +1,57 @@
+{
+  "name": "SHA1.UILibrary",
+  "description": "SHA1 - UI Library",
+  "main": "NewActivity.xaml",
+  "dependencies": {
+    "Microsoft.Activities": "1.0.1",
+    "UiPath.System.Activities": "20.10.4",
+    "UiPath.Testing.Activities": "1.2.5",
+    "UiPath.UIAutomation.Activities": "20.10.9"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.1.0",
+  "projectVersion": "1.0.4",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Library",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "2ef41c1b-6485-4307-8097-443e7c074d9d",
+        "fileName": "Tests\\Verify_ProcessHash.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "cc40b38c-17db-49aa-9f70-2205376b2bcc",
+        "fileName": "Tests\\Verify_Close.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}

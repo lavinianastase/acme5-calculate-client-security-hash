@@ -1,0 +1,11 @@
+﻿{
+  "Id": "yoZQtfP6yU6nluKRa2seMw",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/yoZQtfP6yU6nluKRa2seMw",
+  "Name": "ACME - Chrome",
+  "Type": "App",
+  "Created": "2021-02-10T12:53:03.8420346Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T12:53:03.8420346Z"
+}

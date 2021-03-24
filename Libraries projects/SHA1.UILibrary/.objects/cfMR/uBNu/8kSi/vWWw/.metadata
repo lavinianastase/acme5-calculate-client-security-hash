@@ -1,0 +1,15 @@
+﻿{
+  "Id": "vWWwMKzOEkGB7xybtQcYRQ",
+  "Reference": "CmxxiS9YUUKsGoHNEbX3UA/vWWwMKzOEkGB7xybtQcYRQ",
+  "ParentRef": "CmxxiS9YUUKsGoHNEbX3UA/8kSiYpU8DEC1DKnbk7xlDg",
+  "Name": "Hash button",
+  "Description": "Hash button selector to click in order to generate hash.",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-11T15:55:05.5698355Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-11T15:55:05.5698355Z"
+}

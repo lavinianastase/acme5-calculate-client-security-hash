@@ -1,0 +1,14 @@
+﻿{
+  "Id": "ao3Ps7EWQUid_SzEB97jBQ",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/ao3Ps7EWQUid_SzEB97jBQ",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/o_7gLZ41QUO3OLDnHplS_Q",
+  "Name": "Client Information Details",
+  "Description": "Selector for client info details - get client id, name, country",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-11T14:28:00.1756821Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-11T14:28:00.1756821Z"
+}

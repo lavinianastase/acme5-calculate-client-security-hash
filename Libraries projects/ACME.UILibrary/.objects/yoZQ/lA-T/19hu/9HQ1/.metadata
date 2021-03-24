@@ -1,0 +1,15 @@
+﻿{
+  "Id": "9HQ1gu2pRke91BvqCURKSQ",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/9HQ1gu2pRke91BvqCURKSQ",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/19hupH6KS0KN7RxXwGN8sw",
+  "Name": "Email - Type Into",
+  "Description": "Email textbox selector for login",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-10T12:53:03.9188696Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.9.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T12:53:03.9188696Z"
+}

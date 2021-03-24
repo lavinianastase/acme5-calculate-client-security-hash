@@ -1,0 +1,17 @@
+﻿{
+  "Id": "nkwb1vUN3ESlRQ8xT-9ZxA",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/nkwb1vUN3ESlRQ8xT-9ZxA",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/d0S83bY8IUKJX-AHUbDf3g",
+  "Name": "Client Information Details",
+  "Description": "Selector for client info details - get client id, name, country",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-11T14:26:18.1943676Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-12T08:38:45.6561804Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

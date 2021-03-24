@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="Chrome" ContentHash="cUTRM0Lav0uoHnZ9x2duHQ" Selector="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard'/&gt;" Url="https://acme-test.uipath.com/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0szUW3tqgA0mHZuf-jv7i_A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d03ee9d8aad395bd20658034f25b08ac.png" xmlns="">0Y07lOzPrz0y4JTz2l2fh_Q</imageRef>
+</TargetApp>

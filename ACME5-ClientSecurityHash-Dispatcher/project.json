@@ -1,0 +1,83 @@
+{
+  "name": "ACME5-ClientSecurityHash-Dispatcher",
+  "description": "ACME 5 Dispatcher",
+  "main": "Main.xaml",
+  "dependencies": {
+    "ACME.UILibrary": "[1.0.11]",
+    "UiPath.Excel.Activities": "[2.9.5]",
+    "UiPath.Mail.Activities": "[1.9.5]",
+    "UiPath.System.Activities": "[20.10.4]",
+    "UiPath.Testing.Activities": "[1.2.5]",
+    "UiPath.UIAutomation.Activities": "[20.10.9]",
+    "UiPath.WebAPI.Activities": "[1.6.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.1.0",
+  "projectVersion": "1.0.2",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "4f4a9c1b-bb53-4f46-808e-616c09b3e70b",
+        "fileName": "UnitTests\\System1\\Verify_Login_Successful.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "2534dbb4-c7c3-4280-8daa-5bce5679a043",
+        "fileName": "UnitTests\\System1\\Verify_Login_Exception.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c3e8b9c1-637f-4bdf-96fa-7686d6655699",
+        "fileName": "UnitTests\\System1\\Verify_Logout.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "967d0e28-7f15-442a-bf21-774b850fc38b",
+        "fileName": "UnitTests\\System1\\Verify_NavigateTo.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ea78b0bb-8b57-464a-8178-8394bcab16de",
+        "fileName": "Tests\\Verify_Main.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "9d574c5c-c93f-42ab-b97f-be2e61708fac",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}

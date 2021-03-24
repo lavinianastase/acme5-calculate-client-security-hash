@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items/57500551" ContentHash="UD1aEnALrEiKP_52jC3Jrg" DesignTimeRectangle="894, 442, 157, 34" ElementType="Button" FriendlyName="'Update Work Item'" FullSelectorArgument="&lt;webctrl aaname='Update Work Item' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Update Work Item' tag='BUTTON' type='button' check:text='Update Work Item' /&gt;" ScopeSelectorArgument="&lt;html title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Text="Update Work Item" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='BUTTON' type='button' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0QgiqMwZknEyZsmfpZrpWaw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d503e8af4a74a4c9bea976abee37cea4.png" xmlns="">0GgQH6P39TE2_xudaT0j0rg</imageRef>
+</TargetAnchorable>

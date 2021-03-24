@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/login" ContentHash="woAotdgaIEGOEa83qS2fhw" DesignTimeRectangle="468, 411, 296, 16" FriendlyName="'These credentials'" FullSelectorArgument="&lt;webctrl tag='STRONG' aaname='These credentials do not match our records.' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='STRONG' aaname='These credentials do not match our records.' type='' check:text='These credentials do not match our records.' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Text="These credentials do not match our records." TextMethod="AttributeText" TextSelector="&lt;webctrl tag='STRONG' type='' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0RxWWHVs5DUS9e5gAfRefAg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1b2934bfdd0d028bbdbdabb1da045255.png" xmlns="">0tIr31yayR0ytZju77IbOGA</imageRef>
+</TargetAnchorable>

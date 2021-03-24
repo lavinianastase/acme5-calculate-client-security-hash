@@ -1,0 +1,17 @@
+﻿{
+  "Id": "f6__t39m5UiYmm1YGeXpNg",
+  "Reference": "CmxxiS9YUUKsGoHNEbX3UA/f6__t39m5UiYmm1YGeXpNg",
+  "ParentRef": "CmxxiS9YUUKsGoHNEbX3UA/eBBQD8HiQE-Rf7hKO8itjw",
+  "Name": "Hash button",
+  "Description": "Selector for hash button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-12T13:46:15.5631243Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-12T13:46:22.9774803Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

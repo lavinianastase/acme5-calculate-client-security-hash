@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="Chrome" ContentHash="bWVros4x90qwnVVShyOMJg" Selector="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0L6RptkNruE6ev7-6krWR3Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="889c6e149756d4b830a258a14b809b03.png" xmlns="">0PU3zt8d5IE-2TQ8KNi1MWA</imageRef>
+</TargetApp>

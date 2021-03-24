@@ -1,0 +1,15 @@
+﻿{
+  "Id": "eBBQD8HiQE-Rf7hKO8itjw",
+  "Reference": "CmxxiS9YUUKsGoHNEbX3UA/eBBQD8HiQE-Rf7hKO8itjw",
+  "ParentRef": "CmxxiS9YUUKsGoHNEbX3UA/tHgp0QXKyU-yn9bA1uvk1w",
+  "Name": "SHA1 Main Screen",
+  "Type": "Screen",
+  "Created": "2021-02-12T13:45:50.3912098Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-12T13:45:54.9354244Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

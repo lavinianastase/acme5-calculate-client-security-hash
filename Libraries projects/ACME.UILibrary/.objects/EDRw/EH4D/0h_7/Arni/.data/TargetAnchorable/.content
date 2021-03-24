@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items/update/57500551" ContentHash="PVCOiKbxV0u4bt5gCDbcOw" DesignTimeRectangle="46, 248, 362, 46" ElementType="InputBox" FriendlyName="'TEXTAREA  newComment'" FullSelectorArgument="&lt;webctrl tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="46, 223, 108, 20" ElementType="Text" FriendlyName="'Add Comments:'" FullSelectorArgument="&lt;webctrl idx='1' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' aaname='Add Comments:' check:text='Add Comments:' /&gt;" SearchSteps="FuzzySelector, Image" Text="Add Comments:" TextMethod="AttributeText" TextSelector="&lt;webctrl type='' tag='LABEL' /&gt;">
+        <imageRef attrName="ImageBase64" xmlns="">1RYsSwezDXkesOGie5fFlsA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0EVqthuqKi0uZj2ejjaC6VQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="48d630782eac49765e62cc4480664782.png" xmlns="">0xliUVmiIGUSNQY8nR5ebtQ</imageRef>
+</TargetAnchorable>

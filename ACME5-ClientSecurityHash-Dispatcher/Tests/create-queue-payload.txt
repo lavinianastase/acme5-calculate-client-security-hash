@@ -1,0 +1,7 @@
+{
+  "Name": "ACME5_Test",
+  "Description": "Test queue for ACME5 process",
+  "MaxNumberOfRetries": 2,
+  "AcceptAutomaticallyRetry": true,
+  "EnforceUniqueReference": false
+}

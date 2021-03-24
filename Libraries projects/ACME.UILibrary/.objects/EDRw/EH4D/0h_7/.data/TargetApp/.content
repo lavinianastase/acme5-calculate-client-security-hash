@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="IE" ContentHash="XenZNmjk9k2jKDOWBVo2qA" Selector="&lt;html htmlwindowname='WI-Update' title='ACME System 1'/&gt;" Url="https://acme-test.uipath.com/work-items/update/57500551" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0qYVLWQ-VJUOJEn9RAs3Y5A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="782f4553f20212284870c73b1671d73b.png" xmlns="">02iKqawgSNECDj98Ns65RiQ</imageRef>
+</TargetApp>

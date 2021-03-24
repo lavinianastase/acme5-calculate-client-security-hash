@@ -1,0 +1,17 @@
+﻿{
+  "Id": "cDoCxmZxwk-0IbsLknzAhA",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/cDoCxmZxwk-0IbsLknzAhA",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/bLTRYKoD0kKaUTXkEuJymg",
+  "Name": "New Status Dropdown",
+  "Description": "Selector for selection in new status dropdown",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-11T15:36:56.6402918Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-11T15:37:37.6671515Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

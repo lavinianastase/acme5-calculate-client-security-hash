@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/login" ContentHash="X1mDagxl7EWTph09LXe9Bg" DesignTimeRectangle="390, 90, 1140, 50" FriendlyName="'Login'" FullSelectorArgument="&lt;webctrl tag='H1' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' aaname='Login ' check:text='Login' /&gt;" ScopeSelectorArgument="&lt;html title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, FuzzySelector" Text="Login" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='H1' type='' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0Q6UVo8QRu0StORT0OV0dCg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4f266343b6426379a680498962abcc97.png" xmlns="">08k-syO_6zESZ3IAV4TzQrA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,17 @@
+﻿{
+  "Id": "ArniyegUjkiYPHSW5XHNVw",
+  "Reference": "WmLKxEiM50iWOelNGu-mNw/ArniyegUjkiYPHSW5XHNVw",
+  "ParentRef": "WmLKxEiM50iWOelNGu-mNw/0h_76mYVuE-wadzGU9nM-A",
+  "Name": "Comment",
+  "Description": "Selector for comment textbox",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-02-10T18:12:36.1492669Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-02-10T18:13:31.6572444Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
